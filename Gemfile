@@ -15,3 +15,5 @@ gem 'bootstrap-sass', '~> 3.3.0'
 gem 'better_errors'
 
 gem 'binding_of_caller'
+
+gem 'nokogiri'
